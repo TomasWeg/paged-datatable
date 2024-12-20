@@ -277,14 +277,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.15.0"
-  package_config:
-    dependency: transitive
-    description:
-      name: package_config
-      sha256: "92d4488434b520a62570293fbd33bb556c7d49230791c1b4bbd973baf6d2dc67"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
   paged_datatable:
     dependency: "direct main"
     description:
@@ -449,14 +441,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "14.2.5"
-  watcher:
-    dependency: transitive
-    description:
-      name: watcher
-      sha256: "69da27e49efa56a15f8afe8f4438c4ec02eff0a117df1b22ea4aad194fe1c104"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.1"
   web:
     dependency: transitive
     description:
